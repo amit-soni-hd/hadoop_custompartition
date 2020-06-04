@@ -1,0 +1,4 @@
+com/example/hadoop/employee/EmployeeReducer.class
+com/example/hadoop/employee/CustomPartition.class
+com/example/hadoop/employee/EmployeeMapper.class
+com/example/hadoop/employee/EmployeeDrive.class
